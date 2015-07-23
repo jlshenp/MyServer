@@ -1,0 +1,36 @@
+Last login: Sat Jun 27 22:51:08 on ttys000
+ShendeMacBook-Pro:~ S$ ShendeMacBook-Pro:~ 
+
+ShendeMacBook-Pro:~ S$ cd ~
+ShendeMacBook-Pro:~ S$ ls -l ~/.bash_profile
+-rw-r--r--@ 1 S  staff  58  6 27 22:41 /Users/S/.bash_profile
+ShendeMacBook-Pro:~ S$ ls
+Desktop			Movies			base_profile
+Documents		Music			教学
+Downloads		Pictures		百度云同步盘
+Library			Public
+ShendeMacBook-Pro:~ S$ touch ~/.bash_profile
+ShendeMacBook-Pro:~ S$ vim ~/.bash_profile
+
+
+
+
+
+
+
+
+
+
+
+export JAVA_HOME=/Library/Java/Home
+export JRE_HOME=/Library/Java/Home
+export PATH=$PATH:/Applications/Android/sdk/platform-tools
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
